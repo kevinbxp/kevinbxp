@@ -1,44 +1,43 @@
 # Olá, eu sou o Kevin 👋
 
-**Estudante de Gestão da Tecnologia da Informação** • Suporte Técnico • Infraestrutura • Desenvolvimento Web
+🎓 Estudante de Gestão da Tecnologia da Informação (ENIAC)
 
-Tenho 18 anos e atualmente atuo como Jovem Aprendiz em TI, trabalhando com suporte técnico, GLPI, banco de dados e desenvolvimento de soluções internas para automação de processos.
+Sou Jovem Aprendiz na área de TI e atuo com suporte aos usuários, atendimento de chamados, administração do GLPI e suporte ao ERP Sankhya. Tenho interesse em infraestrutura, ITSM e desenvolvimento de soluções para melhorar processos internos.
 
-## 🚀 Sobre mim
+## 💼 O que eu faço
 
-- 🎓 Gestão da Tecnologia da Informação (Centro Universitário ENIAC)
-- 💼 Jovem Aprendiz na área de TI
-- 🛠️ Experiência com GLPI, MySQL, PostgreSQL e PHP
-- 🌱 Estudando desenvolvimento web, infraestrutura e boas práticas de TI
+- Atendimento de suporte técnico (N1 e apoio em atividades de N2)
+- Gestão de chamados utilizando GLPI
+- Suporte aos usuários e manutenção de computadores
+- Apoio ao sistema ERP Sankhya
+- Consultas básicas em bancos de dados (MySQL e PostgreSQL)
+- Documentação de processos e organização de ambientes de TI
 
-## 💻 Tecnologias
+## 🛠️ Ferramentas e tecnologias
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-0055A4?style=for-the-badge)
+![Sankhya](https://img.shields.io/badge/Sankhya-00A859?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Projeto em destaque
+> **Observação:** Atualmente utilizo essas ferramentas no ambiente de trabalho e estou aprofundando meus conhecimentos na área de TI.
 
-### 🏢 Reserva de Salas
+## 📚 Atualmente estudando
 
-Sistema web desenvolvido para gerenciamento de reservas de salas corporativas, com autenticação, calendário, validação de conflitos e painel administrativo.
+- Gestão da Tecnologia da Informação
+- Boas práticas de ITSM
+- Banco de Dados
+- Infraestrutura e administração de sistemas
 
-## 📊 Estatísticas
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kevinbxp&show_icons=true&theme=tokyonight&hide_border=true)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbxp&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbxp&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbxp&layout=compact&theme=github_dark&hide_border=true)
 
 ## 📫 Contato
 
 - GitHub: **@kevinbxp**
-- LinkedIn: *adicione o link do seu perfil aqui*
-
----
-
-> “Tecnologia é resolver problemas, não apenas escrever código.”
+- LinkedIn: *(adicione o seu link aqui)*
