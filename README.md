@@ -1,16 +1,14 @@
 # Olá, eu sou o Kevin 👋
 
-🎓 Estudante de Gestão da Tecnologia da Informação (ENIAC)
+🎓 Estudante de Gestão da Tecnologia da Informação (Cruzeiro do Sul)
 
-Sou Jovem Aprendiz na área de TI e atuo com suporte aos usuários, atendimento de chamados, administração do GLPI e suporte ao ERP Sankhya. Tenho interesse em infraestrutura, ITSM e desenvolvimento de soluções para melhorar processos internos.
+Sou Jovem Aprendiz na área de TI e atuo com suporte aos usuários, atendimento de chamados, administração do GLPI e suporte as demais demandas. Tenho interesse em infraestrutura, ITSM e desenvolvimento de soluções para melhorar processos internos.
 
 ## 💼 O que eu faço
 
-- Atendimento de suporte técnico (N1 e apoio em atividades de N2)
+- Atendimento de suporte técnico
 - Gestão de chamados utilizando GLPI
 - Suporte aos usuários e manutenção de computadores
-- Apoio ao sistema ERP Sankhya
-- Consultas básicas em bancos de dados (MySQL e PostgreSQL)
 - Documentação de processos e organização de ambientes de TI
 
 ## 🛠️ Ferramentas e tecnologias
@@ -40,4 +38,4 @@ Sou Jovem Aprendiz na área de TI e atuo com suporte aos usuários, atendimento 
 ## 📫 Contato
 
 - GitHub: **@kevinbxp**
-- LinkedIn: *(adicione o seu link aqui)*
+- LinkedIn: *(https://www.linkedin.com/in/kevinbrianrss/)*
