@@ -29,11 +29,6 @@ Sou Jovem Aprendiz na área de TI e atuo com suporte aos usuários, atendimento 
 - Banco de Dados
 - Infraestrutura e administração de sistemas
 
-## 📈 GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbxp&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbxp&layout=compact&theme=github_dark&hide_border=true)
 
 ## 📫 Contato
 
