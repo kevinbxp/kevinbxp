@@ -26,8 +26,6 @@ Tenho como objetivo evoluir para funções cada vez mais técnicas, mantendo uma
 ## 🛠️ Tecnologias e ferramentas
 
 ![GLPI](https://img.shields.io/badge/GLPI-0055A4?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
