@@ -32,3 +32,4 @@ Tenho como objetivo evoluir para funções cada vez mais técnicas, mantendo uma
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/kevinbrianrss/
+- DEV Community: https://dev.to/kevinbxp
